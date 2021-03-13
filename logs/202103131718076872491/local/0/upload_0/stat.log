@@ -1,0 +1,4 @@
+"2021-03-13 17:18:15,775 - upload.py[line:65] - INFO: ------------load data finish!-----------------"
+"2021-03-13 17:18:15,781 - upload.py[line:66] - INFO: file: /Users/clz/PycharmProjects/standalone-fate-master-1.2.0/examples/data/default_credit_homo_guest.csv"
+"2021-03-13 17:18:15,783 - upload.py[line:67] - INFO: total data_count: 12000"
+"2021-03-13 17:18:15,784 - upload.py[line:68] - INFO: table name: default_credit_homo_guest, table namespace: default_credit_homo_guest_guest"

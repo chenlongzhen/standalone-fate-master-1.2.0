@@ -1,0 +1,10 @@
+Java HotSpot(TM) 64-Bit Server VM (25.192-b12) for linux-amd64 JRE (1.8.0_192-b12), built on Oct  6 2018 06:46:09 by "java_re" with gcc 7.3.0
+Memory: 4k page, physical 32779820k(257304k free), swap 0k(0k free)
+CommandLine flags: -XX:+HeapDumpOnOutOfMemoryError -XX:InitialHeapSize=2147483648 -XX:MaxHeapSize=2147483648 -XX:+PrintGC -XX:+PrintGCDateStamps -XX:+PrintGCDetails -XX:+PrintGCTimeStamps -XX:+UseCompressedClassPointers -XX:+UseCompressedOops -XX:+UseParallelGC 
+2020-01-03T15:26:17.279+0800: 1.176: [GC (Metadata GC Threshold) [PSYoungGen: 367373K->14259K(611840K)] 367373K->14347K(2010112K), 0.0201323 secs] [Times: user=0.06 sys=0.01, real=0.02 secs] 
+2020-01-03T15:26:17.299+0800: 1.196: [Full GC (Metadata GC Threshold) [PSYoungGen: 14259K->0K(611840K)] [ParOldGen: 88K->13681K(1398272K)] 14347K->13681K(2010112K), [Metaspace: 20530K->20530K(1067008K)], 0.0331921 secs] [Times: user=0.13 sys=0.01, real=0.04 secs] 
+2020-01-03T15:26:18.866+0800: 2.763: [GC (Allocation Failure) [PSYoungGen: 524800K->16125K(611840K)] 538481K->29815K(2010112K), 0.0222883 secs] [Times: user=0.07 sys=0.01, real=0.02 secs] 
+2020-01-03T15:26:19.134+0800: 3.032: [GC (Metadata GC Threshold) [PSYoungGen: 84597K->14028K(611840K)] 98287K->27726K(2010112K), 0.0096242 secs] [Times: user=0.03 sys=0.00, real=0.01 secs] 
+2020-01-03T15:26:19.144+0800: 3.041: [Full GC (Metadata GC Threshold) [PSYoungGen: 14028K->0K(611840K)] [ParOldGen: 13697K->19172K(1398272K)] 27726K->19172K(2010112K), [Metaspace: 34040K->34040K(1081344K)], 0.0496179 secs] [Times: user=0.18 sys=0.00, real=0.05 secs] 
+2020-01-03T15:26:20.674+0800: 4.571: [GC (Allocation Failure) [PSYoungGen: 524800K->12868K(611840K)] 543972K->32048K(2010112K), 0.0100929 secs] [Times: user=0.06 sys=0.00, real=0.01 secs] 
+2020-01-03T15:26:21.800+0800: 5.698: [GC (Allocation Failure) [PSYoungGen: 537668K->18897K(611840K)] 556848K->38086K(2010112K), 0.0179983 secs] [Times: user=0.09 sys=0.00, real=0.01 secs] 

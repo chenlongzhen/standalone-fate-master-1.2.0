@@ -1,0 +1,1 @@
+{"file": "examples/data/default_credit_homo_guest.csv", "head": 1, "partition": 10, "work_mode": 0, "table_name": "default_credit_homo_guest", "namespace": "default_credit_homo_guest_guest"}

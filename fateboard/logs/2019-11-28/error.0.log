@@ -1,0 +1,7 @@
+[ERROR] 2019-11-28 20:30:21 [pool-4-thread-1] c.w.a.f.b.ssh.SshConfigFileWatcher - 
+############################################################################
+
+[ERROR] 2019-11-28 20:30:21 [pool-4-thread-1] c.w.a.f.b.ssh.SshConfigFileWatcher - Reload config file ... changed File:/data/projects/cos/standalone-fate-master-1.1.1/fateboard/ssh/ssh.properties change Type:ENTRY_MODIFY
+[ERROR] 2019-11-28 20:30:21 [pool-4-thread-1] c.w.a.f.b.ssh.SshConfigFileWatcher - 
+############################################################################
+

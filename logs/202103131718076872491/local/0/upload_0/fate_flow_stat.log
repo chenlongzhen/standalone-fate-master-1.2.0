@@ -1,0 +1,21 @@
+"2021-03-13 17:18:14,634 - api_utils.py[line:78] - INFO: local api request: http://127.0.0.1:9380/v1/schedule/202103131718076872491/upload_0/202103131718076872491_upload_0/local/0/status"
+"2021-03-13 17:18:14,757 - api_utils.py[line:81] - INFO: {"retcode":0,"retmsg":"success"}
+"
+"2021-03-13 17:18:14,757 - api_utils.py[line:83] - INFO: local api response: /v1/schedule/202103131718076872491/upload_0/202103131718076872491_upload_0/local/0/status {'retcode': 0, 'retmsg': 'success'}"
+"2021-03-13 17:18:14,998 - tracking.py[line:303] - INFO: save local 0 job: {'f_progress': 100.0}"
+"2021-03-13 17:18:15,700 - tracking.py[line:69] - INFO: request save job 202103131718076872491 component upload_0 on local 0 upload data_access metric data"
+"2021-03-13 17:18:15,701 - api_utils.py[line:78] - INFO: local api request: http://127.0.0.1:9380/v1/tracking/202103131718076872491/upload_0/202103131718076872491_upload_0/local/0/metric_data/save"
+"2021-03-13 17:18:15,712 - api_utils.py[line:81] - INFO: {"retcode":0,"retmsg":"success"}
+"
+"2021-03-13 17:18:15,712 - api_utils.py[line:83] - INFO: local api response: /v1/tracking/202103131718076872491/upload_0/202103131718076872491_upload_0/local/0/metric_data/save {'retcode': 0, 'retmsg': 'success'}"
+"2021-03-13 17:18:15,712 - tracking.py[line:120] - INFO: request save job 202103131718076872491 component upload_0 on local 0 upload data_access metric meta"
+"2021-03-13 17:18:15,712 - api_utils.py[line:78] - INFO: local api request: http://127.0.0.1:9380/v1/tracking/202103131718076872491/upload_0/202103131718076872491_upload_0/local/0/metric_meta/save"
+"2021-03-13 17:18:15,759 - api_utils.py[line:81] - INFO: {"retcode":0,"retmsg":"success"}
+"
+"2021-03-13 17:18:15,768 - api_utils.py[line:83] - INFO: local api response: /v1/tracking/202103131718076872491/upload_0/202103131718076872491_upload_0/local/0/metric_meta/save {'retcode': 0, 'retmsg': 'success'}"
+"2021-03-13 17:18:15,868 - api_utils.py[line:78] - INFO: local api request: http://127.0.0.1:9380/v1/schedule/202103131718076872491/upload_0/202103131718076872491_upload_0/local/0/status"
+"2021-03-13 17:18:15,880 - api_utils.py[line:81] - INFO: {"retcode":0,"retmsg":"success"}
+"
+"2021-03-13 17:18:15,880 - api_utils.py[line:83] - INFO: local api response: /v1/schedule/202103131718076872491/upload_0/202103131718076872491_upload_0/local/0/status {'retcode': 0, 'retmsg': 'success'}"
+"2021-03-13 17:18:16,337 - job_utils.py[line:348] - INFO: try to stop process pid:82264"
+"2021-03-13 17:18:16,344 - job_utils.py[line:348] - INFO: try to stop process pid:82264"

@@ -1,0 +1,4 @@
+"2021-03-13 17:18:14,757 - task_executor.py[line:120] - INFO: run 202103131718076872491 upload_0 202103131718076872491_upload_0 local 0 task"
+"2021-03-13 17:18:14,758 - task_executor.py[line:121] - INFO: {'UploadParam': {'file': 'examples/data/default_credit_homo_guest.csv', 'head': 1, 'partition': 10, 'namespace': 'default_credit_homo_guest_guest', 'table_name': 'default_credit_homo_guest', 'work_mode': 0, 'in_version': None}, 'initiator': {'role': 'local', 'party_id': 0}, 'job_parameters': {'work_mode': 0, 'model_id': 'local-0#model', 'model_version': '202103131718076872491'}, 'role': {'local': [0]}, 'local': {'role': 'local', 'party_id': 0}, 'CodePath': 'fate_flow/utils/upload.py/Upload', 'module': 'Upload'}"
+"2021-03-13 17:18:14,758 - task_executor.py[line:122] - INFO: {}"
+"2021-03-13 17:18:15,881 - task_executor.py[line:150] - INFO: finish 202103131718076872491 upload_0 202103131718076872491_upload_0 local 0 success task"
